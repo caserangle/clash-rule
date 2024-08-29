@@ -1,0 +1,12 @@
+# NAME: Discord
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:11
+# DOMAIN-SUFFIX: 28
+# TOTAL: 28
+payload:
+- DOMAIN-SUFFIX,store.steampowered.com
+- DOMAIN-SUFFIX,steamcommunity.com
+- DOMAIN-SUFFIX,api.steampowered.com
+- DOMAIN-SUFFIX,test.steampowered.com
+- DOMAIN-SUFFIX,steamstatic.com
