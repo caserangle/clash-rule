@@ -5,5 +5,5 @@
 # DOMAIN-SUFFIX: 28
 # TOTAL: 28
 payload:
-  - DOMAIN,preus.cn2gias.uk 
-  - DOMAIN,emby.cn2gias.uk
+  - DOMAIN-SUFFIX,preus.cn2gias.uk 
+
