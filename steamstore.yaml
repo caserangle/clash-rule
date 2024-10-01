@@ -9,4 +9,4 @@ payload:
 - DOMAIN-SUFFIX,steamcommunity.com
 - DOMAIN-SUFFIX,api.steampowered.com
 - DOMAIN-SUFFIX,test.steampowered.com
-- DOMAIN-SUFFIX,launcher.store.epicgames.com
+- DOMAIN,launcher.store.epicgames.com
