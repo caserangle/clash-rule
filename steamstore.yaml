@@ -13,3 +13,4 @@ payload:
 - DOMAIN,shared.akamai.steamstatic.com
 - DOMAIN,steamuserimages-a.akamaihd.net
 - DOMAIN,store.akamai.steamstatic.com
+- DOMAIN,video.akamai.steamstatic.com
