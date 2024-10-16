@@ -9,5 +9,4 @@ payload:
 - DOMAIN,steamuserimages-a.akamaihd.net
 - DOMAIN,store.akamai.steamstatic.com
 - DOMAIN,video.akamai.steamstatic.com
-- DOMAIN,launcher.store.epicgames.com
-- DOMAIN,store-site-backend-static-ipv4.ak.epicgames.com
+
