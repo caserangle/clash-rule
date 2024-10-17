@@ -48,3 +48,4 @@ payload:
   - DOMAIN-SUFFIX,nanflix.net
   - DOMAIN-SUFFIX,embymv.link
   - IP-CIDR,168.138.45.100/32,no-resolve
+  - DOMAIN,emby.my
