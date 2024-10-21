@@ -9,4 +9,4 @@ payload:
 - DOMAIN,steamuserimages-a.akamaihd.net
 - DOMAIN,store.akamai.steamstatic.com
 - DOMAIN,video.akamai.steamstatic.com
-
+- DOMAIN-SUFFIX,cloudflare.steamstatic.com
