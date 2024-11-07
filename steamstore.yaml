@@ -10,3 +10,4 @@ payload:
 - DOMAIN,store.akamai.steamstatic.com
 - DOMAIN,video.akamai.steamstatic.com
 - DOMAIN-SUFFIX,cloudflare.steamstatic.com
+- DOMAIN-SUFFIX,fastly.steamstatic.com
