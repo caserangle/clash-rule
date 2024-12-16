@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,new.happyav.eu.org
   - DOMAIN-SUFFIX,nanflix.net
   - DOMAIN-SUFFIX,embymv.link
+  - DOMAIN-SUFFIX,tdck.fun
   - IP-CIDR,108.181.0.21/32,no-resolve
   - IP-CIDR,168.138.45.100/32,no-resolve
   - DOMAIN,emby.my
