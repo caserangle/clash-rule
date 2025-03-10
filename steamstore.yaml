@@ -11,3 +11,4 @@ payload:
 - DOMAIN,video.akamai.steamstatic.com
 - DOMAIN-SUFFIX,cloudflare.steamstatic.com
 - DOMAIN-SUFFIX,fastly.steamstatic.com
+- DOMAIN,checkout.steampowered.com
