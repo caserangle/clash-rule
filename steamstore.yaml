@@ -12,3 +12,4 @@ payload:
 - DOMAIN-SUFFIX,cloudflare.steamstatic.com
 - DOMAIN-SUFFIX,fastly.steamstatic.com
 - DOMAIN,checkout.steampowered.com
+- DOMAIN,clan.steamstatic.com
