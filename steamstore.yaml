@@ -15,3 +15,4 @@ payload:
 - DOMAIN,clan.steamstatic.com
 - DOMAIN,images.steamusercontent.com
 - DOMAIN,shared.steamstatic.com
+- DOMAIN,cdn.steamstatic.com
