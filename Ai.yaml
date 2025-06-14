@@ -1,6 +1,11 @@
 #来源https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/AI%20Suite.list
 payload:
 
+# > Augment
+  - DOMAIN-SUFFIX,augment.com
+  - DOMAIN-SUFFIX,augmentcode.com
+
+
 # > ChatGPT
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,chatgpt.com
@@ -103,3 +108,6 @@ payload:
 # > Sora
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN,sora-cdn.oaistatic.com
+  
+# > Zed
+  - DOMAIN-SUFFIX,zed.dev
