@@ -50,7 +50,6 @@ payload:
   - DOMAIN-SUFFIX,110.lol
   - DOMAIN,emby.my
   - DOMAIN,emby.sexemby.com
-  - DOMAIN,luoti.wangdai.us
   - DOMAIN,edge.staryuki.com
   - DOMAIN,edge.staryuki.me
   - IP-CIDR,218.205.94.150/32,no-resolve 
