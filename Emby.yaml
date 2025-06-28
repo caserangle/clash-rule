@@ -53,6 +53,7 @@ payload:
   - DOMAIN,edge.staryuki.com
   - DOMAIN,edge.staryuki.me
   - DOMAIN,ciallo.party
+  - DOMAIN-SUFFIX,cherry-pornemby.top
   - IP-CIDR,218.205.94.150/32,no-resolve 
   - IP-CIDR,108.181.0.21/32,no-resolve
   - IP-CIDR,168.138.45.100/32,no-resolve
