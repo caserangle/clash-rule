@@ -55,6 +55,11 @@ payload:
   - DOMAIN,ciallo.party
   - DOMAIN-SUFFIX,cherry-pornemby.top
   - DOMAIN,emby.misaya.org
+  - DOMAIN-SUFFIX,emby.haitunt.org
+  - DOMAIN-SUFFIX,cdn.newneeship.com
+  - DOMAIN-SUFFIX,m.mobaiemby.site
+  - DOMAIN-SUFFIX,kessoku-bando.biliblili.uk
+  - DOMAIN-SUFFIX,fufuvip.violet.run
   - IP-CIDR,218.205.94.150/32,no-resolve 
   - IP-CIDR,108.181.0.21/32,no-resolve
   - IP-CIDR,168.138.45.100/32,no-resolve
