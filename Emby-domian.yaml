@@ -15,8 +15,4 @@ payload:
   - DOMAIN-SUFFIX,wangdai.us
   - DOMAIN-SUFFIX,sexemby.com
   - DOMAIN-SUFFIX,newneeship.com
-  - DOMAIN-SUFFIX,cdn.bgp.yt
-  - DOMAIN,speedtest-babybus.apple-cdn.net
-  - DOMAIN,emby.heisi.org
-  - DOMAIN,hka-emby.aliz.work
-  - IP-CIDR,95.161.76.100/32
+
