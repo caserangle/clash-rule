@@ -65,10 +65,10 @@ payload:
   - DOMAIN,emby.heisi.org
   - DOMAIN,hka-emby.aliz.work
   - DOMAIN-suffix,zhezhi.art  
-  - IP-CIDR,95.161.76.100/32
   - DOMAIN,v1.uhdnow.com
   - DOMAIN,v1-vod2.uhdnow.com
   - DOMAIN,emby101.origamiart.uk
+  - IP-CIDR,95.161.76.100/32
   - IP-CIDR,218.205.94.150/32,no-resolve 
   - IP-CIDR,108.181.0.21/32,no-resolve
   - IP-CIDR,168.138.45.100/32,no-resolve
