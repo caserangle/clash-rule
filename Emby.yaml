@@ -1,4 +1,3 @@
-
 payload:
   - DOMAIN,wgtv.ii00.cc
   - DOMAIN,wptv.ii00.cc
@@ -58,17 +57,17 @@ payload:
   - DOMAIN-SUFFIX,emby.haitunt.org
   - DOMAIN-SUFFIX,cdn.newneeship.com
   - DOMAIN-SUFFIX,m.mobaiemby.site
-  - DOMAIN-SUFFIX,kessoku-bando.biliblili.uk
-  - DOMAIN-SUFFIX,fufuvip.violet.run
+  - DOMAIN-SUFFIX,kessoku-bando.biliblili.uk
+  - DOMAIN-SUFFIX,fufuvip.violet.run
   - DOMAIN-SUFFIX,cdn.bgp.yt
   - DOMAIN,speedtest-babybus.apple-cdn.net
   - DOMAIN,emby.heisi.org
   - DOMAIN,hka-emby.aliz.work
-  - DOMAIN-suffix,zhezhi.art  
+  - DOMAIN-SUFFIX,zhezhi.art
   - DOMAIN,v1.uhdnow.com
   - DOMAIN,v1-vod2.uhdnow.com
   - DOMAIN,emby101.origamiart.uk
   - IP-CIDR,95.161.76.100/32
-  - IP-CIDR,218.205.94.150/32,no-resolve 
+  - IP-CIDR,218.205.94.150/32,no-resolve
   - IP-CIDR,108.181.0.21/32,no-resolve
   - IP-CIDR,168.138.45.100/32,no-resolve
